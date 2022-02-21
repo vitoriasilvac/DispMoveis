@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">solar</string>
+    <string name="erup">Erupção Solar</string>
+    <string name="geo">Tempestade Geomagnética</string>
+    <string name="erupresumo">Erupções solares são explosões repentinas na superfície do Sol causadas por mudanças no seu campo magnético.
+    Essas explosões liberam altos níveis de radiação e partículas a altas velocidades que estavam armazenadas nas linhas de campo magnético.</string>
+    <string name="georesumo">A Tempestade Geomagnética ou Tempestade Solar, é uma perturbação temporária da magnetosfera da Terra causada por uma onda de choque do vento solar
+    e/ou nuver magnética que interage com o campo magnético da Terra. As tempestades solares podem ocasionar a destruição de satélites artificiais, interferência nos
+    serviços de telefonia, entre outros.</string>
+
+    <string name="text_button_erup">Mais informações</string>
+    <string name="text_button_geo">Mais informações</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
